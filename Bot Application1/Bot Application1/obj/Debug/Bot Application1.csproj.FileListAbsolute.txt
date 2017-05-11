@@ -1,0 +1,40 @@
+D:\Projet_perso\Bot Application1\Bot Application1\bin\Bot Application1.dll.config
+D:\Projet_perso\Bot Application1\Bot Application1\bin\Bot Application1.dll
+D:\Projet_perso\Bot Application1\Bot Application1\bin\Bot Application1.pdb
+D:\Projet_perso\Bot Application1\Bot Application1\bin\Autofac.dll
+D:\Projet_perso\Bot Application1\Bot Application1\bin\Chronic.dll
+D:\Projet_perso\Bot Application1\Bot Application1\bin\Microsoft.Bot.Builder.Autofac.dll
+D:\Projet_perso\Bot Application1\Bot Application1\bin\Microsoft.Bot.Builder.dll
+D:\Projet_perso\Bot Application1\Bot Application1\bin\Microsoft.Bot.Connector.dll
+D:\Projet_perso\Bot Application1\Bot Application1\bin\Microsoft.IdentityModel.Protocol.Extensions.dll
+D:\Projet_perso\Bot Application1\Bot Application1\bin\Microsoft.Rest.ClientRuntime.dll
+D:\Projet_perso\Bot Application1\Bot Application1\bin\Microsoft.WindowsAzure.Configuration.dll
+D:\Projet_perso\Bot Application1\Bot Application1\bin\Newtonsoft.Json.dll
+D:\Projet_perso\Bot Application1\Bot Application1\bin\System.IdentityModel.Tokens.Jwt.dll
+D:\Projet_perso\Bot Application1\Bot Application1\bin\System.Net.Http.Formatting.dll
+D:\Projet_perso\Bot Application1\Bot Application1\bin\System.Web.Http.dll
+D:\Projet_perso\Bot Application1\Bot Application1\bin\System.Web.Http.WebHost.dll
+D:\Projet_perso\Bot Application1\Bot Application1\bin\Autofac.xml
+D:\Projet_perso\Bot Application1\Bot Application1\bin\Microsoft.Bot.Builder.xml
+D:\Projet_perso\Bot Application1\Bot Application1\bin\Microsoft.Bot.Builder.Autofac.xml
+D:\Projet_perso\Bot Application1\Bot Application1\bin\Microsoft.Bot.Connector.xml
+D:\Projet_perso\Bot Application1\Bot Application1\bin\Microsoft.IdentityModel.Protocol.Extensions.xml
+D:\Projet_perso\Bot Application1\Bot Application1\bin\Microsoft.WindowsAzure.Configuration.xml
+D:\Projet_perso\Bot Application1\Bot Application1\bin\Newtonsoft.Json.xml
+D:\Projet_perso\Bot Application1\Bot Application1\bin\System.IdentityModel.Tokens.Jwt.xml
+D:\Projet_perso\Bot Application1\Bot Application1\bin\System.Net.Http.Formatting.xml
+D:\Projet_perso\Bot Application1\Bot Application1\bin\System.Web.Http.xml
+D:\Projet_perso\Bot Application1\Bot Application1\bin\System.Web.Http.WebHost.xml
+D:\Projet_perso\Bot Application1\Bot Application1\bin\ar\Microsoft.Bot.Builder.resources.dll
+D:\Projet_perso\Bot Application1\Bot Application1\bin\cs\Microsoft.Bot.Builder.resources.dll
+D:\Projet_perso\Bot Application1\Bot Application1\bin\de-dE\Microsoft.Bot.Builder.resources.dll
+D:\Projet_perso\Bot Application1\Bot Application1\bin\en\Microsoft.Bot.Builder.resources.dll
+D:\Projet_perso\Bot Application1\Bot Application1\bin\es\Microsoft.Bot.Builder.resources.dll
+D:\Projet_perso\Bot Application1\Bot Application1\bin\fa\Microsoft.Bot.Builder.resources.dll
+D:\Projet_perso\Bot Application1\Bot Application1\bin\fr\Microsoft.Bot.Builder.resources.dll
+D:\Projet_perso\Bot Application1\Bot Application1\bin\ja\Microsoft.Bot.Builder.resources.dll
+D:\Projet_perso\Bot Application1\Bot Application1\bin\ru\Microsoft.Bot.Builder.resources.dll
+D:\Projet_perso\Bot Application1\Bot Application1\bin\zh-hans\Microsoft.Bot.Builder.resources.dll
+D:\Projet_perso\Bot Application1\Bot Application1\obj\Debug\Bot Application1.csprojResolveAssemblyReference.cache
+D:\Projet_perso\Bot Application1\Bot Application1\obj\Debug\Bot Application1.dll
+D:\Projet_perso\Bot Application1\Bot Application1\obj\Debug\Bot Application1.pdb
